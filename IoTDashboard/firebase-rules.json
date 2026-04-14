@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "sensores": {
+      ".read":  true,
+      ".write": true
+    },
+    "historial": {
+      ".read":  true,
+      ".write": true
+    }
+  }
+}
